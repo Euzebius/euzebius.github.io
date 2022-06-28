@@ -19,5 +19,11 @@ When it's done
   - GWAPT
   - GCSA
   - GCPN
-- CTF player (and soon to be creator)
+  - GCIA
+- Penetration testing trainer
+- CTF player and creator
 - HackTheBox France meetups group founder
+
+## Find me on social networks
+
+Twitter and LinkedIn coming soon, but you might already be aware of them :)
