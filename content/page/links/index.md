@@ -14,9 +14,9 @@ links:
     website: https://www.malwaregallery.com/
     image: https://www.malwaregallery.com/static/img/logo.png
   - title: Malware Gallery
-    description: This project aims to provide Malware Analysts and Defenders with actionable insights and detection capabilities to shorten their response times. Made with love by [Fr0gger](https://x.com/fr0gger_) and [DarkCoderSC](https://x.com/darkcodersc)
+    description: This project aims to provide Malware Analysts and Defenders with actionable insights and detection capabilities to shorten their response times. Made with love by Fr0gger and DarkCoderSC.
     website: https://unprotect.it/
-    image: https://www.malwaregallery.com/static/img/logo.png
+    image: https://unprotect.it/static/img/unprotect-banner.png
   - title: ThinkLoveShare
     description: [Laluka](https://x.com/TheLaluka)'s blog. Pure nuggets of wisdom in there, great guy. Excellent in skills and as a human.
     website: https://thinkloveshare.com/
