@@ -12,7 +12,7 @@ aliases: manifesto
 ---
 
 # Welcome
-Welcome on this blog!  
+Welcome to this blog!  
 Why a blog in 2025 you might be asking?  
 Mate, I'm asking the same.  
   
