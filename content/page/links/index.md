@@ -10,7 +10,7 @@ links:
     website: https://mudpak.eu/
     image: https://mudpak.eu/assets/0.png
   - title: Malware Gallery
-    description: A virtual museum dedicated to the rich history of malware. Made with love by [DarkCoderSC](https://x.com/darkcodersc)
+    description: A virtual museum dedicated to the rich history of malware. Made with love by DarkCoderSC
     website: https://www.malwaregallery.com/
     image: https://www.malwaregallery.com/static/img/logo.png
   - title: Malware Gallery
@@ -18,7 +18,7 @@ links:
     website: https://unprotect.it/
     image: https://unprotect.it/static/img/unprotect-banner.png
   - title: ThinkLoveShare
-    description: [Laluka](https://x.com/TheLaluka)'s blog. Pure nuggets of wisdom in there, great guy. Excellent in skills and as a human.
+    description: Laluka's blog. Pure nuggets of wisdom in there, great guy. Excellent in skills and as a human.
     website: https://thinkloveshare.com/
     image: https://thinkloveshare.com/img/laluka.png 
 menu:
