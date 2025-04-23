@@ -12,10 +12,10 @@ languages:
     weight: 1
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+#disqusShortname: hugo-theme-stack
 
 # GA Tracking ID
-googleAnalytics:
+#googleAnalytics:
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -38,15 +38,15 @@ params:
 
   footer:
     since: 2025
-    customText:
+    customText: Educational purpose only. Don't do silly thing on the Internet.
 
   dateFormat:
     published: Jan 02, 2006
     lastUpdated: Jan 02, 2006 15:04 MST
 
   sidebar:
-    emoji: 🍥
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    emoji: 🪟
+    subtitle: 42. There is no place like 127.0.0.1
     avatar:
       enabled: true
       local: true
@@ -61,82 +61,9 @@ params:
       default: Licensed under CC BY-NC-SA 4.0
 
   comments:
-    enabled: true
-    provider: disqus
+    enabled: false
+    #provider: disqus
 
-    disqusjs:
-      shortname:
-      apiUrl:
-      apiKey:
-      admin:
-      adminLabel:
-
-    utterances:
-      repo:
-      issueTerm: pathname
-      label:
-
-    remark42:
-      host:
-      site:
-      locale:
-
-    vssue:
-      platform:
-      owner:
-      repo:
-      clientId:
-      clientSecret:
-      autoCreateIssue: false
-
-    # Waline client configuration see: https://waline.js.org/en/reference/component.html
-    waline:
-      serverURL:
-      lang:
-      pageview:
-      emoji:
-        - https://unpkg.com/@waline/emojis@1.0.1/weibo
-      requiredMeta:
-        - name
-        - email
-        - url
-      locale:
-        admin: Admin
-        placeholder:
-
-    twikoo:
-      envId:
-      region:
-      path:
-      lang:
-
-    # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
-    cactus:
-      defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
-      serverName: "cactus.chat"
-      siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
-
-    giscus:
-      repo:
-      repoID:
-      category:
-      categoryID:
-      mapping:
-      lightTheme:
-      darkTheme:
-      reactionsEnabled: 1
-      emitMetadata: 0
-
-    gitalk:
-      owner:
-      admin:
-      repo:
-      clientID:
-      clientSecret:
-
-    cusdis:
-      host:
-      id:
   widgets:
     homepage:
       - type: search
@@ -171,7 +98,7 @@ params:
     toggle: true
 
     # Available values: auto, light, dark
-    default: auto
+    default: dark
 
   imageProcessing:
     cover:
