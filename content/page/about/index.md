@@ -1,13 +1,13 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+title: About Euz and this blog
+description: New playuer, who dis? Why a blog in 2025?
+date: '2025-04-23'
 aliases:
-  - about-us
-  - about-hugo
+  - about-me
+  - about-euz
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2025-04-23'
 menu:
     main: 
         weight: -90
@@ -15,20 +15,23 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## whoami
+One more random dude on the Internet.  
+I love hacking stuff, sometimes I break them, sometimes I fix them.  
+I've been working on the field for nearly 2 decades now.  
+I've also been hosting the French Hack The Box meetup for nearly 4 years now : [see site here](https://htb-meetup-france.super.site/).
 
-Hugo makes use of a variety of open source projects including:
+## Why a blog?
+Why not?  
+I mean, I was born in the 80s, grew up in the 90s, so the good old Internet. Having a blog in the 90s was cool, I had multiple ones. One per hobby (including gamedev).  
+But why now? Well, I need to motivate myself to keep doing stuff, and this is a way for me to stay commited. Don't want to get (r|d)usty.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## What will be presented here?
+Everything that sparks in my mind and I consider worth sharing.  
+Might be related to labs, hacking, hobbies, anything.  
+Don't have too high expectation though.  
+Sometimes it will be cool, sometimes it will be dull.  
+Sorry not sorry, my place == my rules.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Resume
+TODO
