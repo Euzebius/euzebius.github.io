@@ -1,26 +1,15 @@
-baseurl: https://jlumbroso.github.io/hugo-stack-template/
+baseurl: https://euzebius.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Euz blog
 
 languages:
   en:
     languageName: English
-    title: Example Site
-    description: Example description
+    title: Euz blog
+    description: A blog in 2025? Heck yeah
     weight: 1
-  zh-cn:
-    languageName: 中文
-    title: 演示站点
-    description: 演示说明
-    weight: 2
-  ar:
-    languageName: عربي
-    languagedirection: rtl
-    title: موقع تجريبي
-    description: وصف تجريبي
-    weight: 3
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -48,7 +37,7 @@ params:
   favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
   footer:
-    since: 2020
+    since: 2025
     customText:
 
   dateFormat:
@@ -199,13 +188,13 @@ menu:
   social:
     - identifier: github
       name: GitHub
-      url: https://github.com/CaiJimmy/hugo-theme-stack
+      url: https://github.com/Euzebius/
       params:
         icon: brand-github
 
     - identifier: twitter
       name: Twitter
-      url: https://twitter.com
+      url: https://x.com/_Euzebius
       params:
         icon: brand-twitter
 
