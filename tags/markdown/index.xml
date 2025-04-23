@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>markdown on Example Site</title><link>https://jlumbroso.github.io/hugo-stack-template/tags/markdown/</link><description>Recent content in markdown on Example Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jlumbroso.github.io/hugo-stack-template/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown Syntax Guide</title><link>https://jlumbroso.github.io/hugo-stack-template/p/markdown-syntax-guide/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-stack-template/p/markdown-syntax-guide/</guid><description>&lt;img src="https://jlumbroso.github.io/hugo-stack-template/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" />&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>markdown on Euz blog</title><link>https://euzebius.github.io/tags/markdown/</link><description>Recent content in markdown on Euz blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://euzebius.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown Syntax Guide</title><link>https://euzebius.github.io/p/markdown-syntax-guide/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://euzebius.github.io/p/markdown-syntax-guide/</guid><description>&lt;img src="https://euzebius.github.io/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" />&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
 &lt;h2 id="headings">Headings&lt;/h2>
 &lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
 &lt;h1 id="h1">H1&lt;/h1>
@@ -214,27 +214,4 @@ alt="Google"
 >talk&lt;/a> during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Placeholder Text</title><link>https://jlumbroso.github.io/hugo-stack-template/p/placeholder-text/</link><pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-stack-template/p/placeholder-text/</guid><description>&lt;img src="https://jlumbroso.github.io/hugo-stack-template/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" />&lt;p>Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p>
-&lt;p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p>
-&lt;ol>
-&lt;li>Exierant elisi ambit vivere dedere&lt;/li>
-&lt;li>Duce pollice&lt;/li>
-&lt;li>Eris modo&lt;/li>
-&lt;li>Spargitque ferrea quos palude&lt;/li>
-&lt;/ol>
-&lt;p>Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p>
-&lt;ol>
-&lt;li>Comas hunc haec pietate fetum procerum dixit&lt;/li>
-&lt;li>Post torum vates letum Tiresia&lt;/li>
-&lt;li>Flumen querellas&lt;/li>
-&lt;li>Arcanaque montibus omnes&lt;/li>
-&lt;li>Quidem et&lt;/li>
-&lt;/ol>
-&lt;h1 id="vagus-elidunt">Vagus elidunt&lt;/h1>
-&lt;p>&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;p>&lt;a class="link" href="https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon" target="_blank" rel="noopener"
->The Van de Graaf Canon&lt;/a>&lt;/p>
-&lt;h2 id="mane-refeci-capiebant-unda-mulcebat">Mane refeci capiebant unda mulcebat&lt;/h2>
-&lt;p>Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong>Faces illo pepulere&lt;/strong> tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p>
-&lt;p>Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p>
-&lt;p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong>mitis temploque&lt;/strong> vocatus, inque alis, &lt;em>oculos nomen&lt;/em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong>parte&lt;/strong>.&lt;/p></description></item></channel></rss>
+&lt;/div></description></item></channel></rss>
