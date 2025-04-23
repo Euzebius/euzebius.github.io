@@ -10,13 +10,21 @@ links:
     website: https://mudpak.fr/
     image: https://mudpak.fr/assets/0.png
   - title: Malware Gallery
-    description: A virtual museum dedicated to the rich history of malware. Made with love by DarkCoderSC
+    description: A virtual museum dedicated to the rich history of malware. Made with love by DarkCoderSC.
     website: https://www.malwaregallery.com/
     image: https://www.malwaregallery.com/static/img/logo.png
   - title: Unprotect Project
     description: This project aims to provide Malware Analysts and Defenders with actionable insights and detection capabilities to shorten their response times. Made with love by Fr0gger and DarkCoderSC.
     website: https://unprotect.it/
     image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9KLSo8IfHJFkfnwi2PyBwJsKA9Vy24JuDQ&s
+  - title: The Hacker Recipes
+    description: A real cool place to read about hacking methodologies and techniques. Quite exhaustive, great collaborative work initiated by Charlie Bromberg aka Shutdown 🐐🫶
+    website: https://www.thehacker.recipes/
+    image: https://www.thehacker.recipes/assets/welcome.DNQKDD6z.png
+  - title: Exegol
+    description: Professional hacking setup, by Shutdown and Dramelac.
+    website: https://exegol.readthedocs.io/en/latest/
+    image: https://raw.githubusercontent.com/ThePorgs/Exegol-docs/main/.assets/rounded_social_preview.png
   - title: ThinkLoveShare
     description: Laluka's blog. Pure nuggets of wisdom in there, great guy. Excellent in skills and as a human.
     website: https://thinkloveshare.com/
@@ -30,6 +38,7 @@ links:
     website: https://blog.noodle.red/
     image: https://blog.noodle.red/static/noodle.png
     
+    
 menu:
     main: 
         weight: -50
@@ -40,4 +49,5 @@ comments: false
 ---
 
 Here you will find a list of projects, people or organizations I appreciate.  
+There is no specific order, I'm just adding them here.  
 In case I didn't mention you and you think this is a mistake, you know where to reach me out.
