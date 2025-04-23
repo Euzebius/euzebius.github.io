@@ -16,7 +16,7 @@ links:
   - title: Unprotect Project
     description: This project aims to provide Malware Analysts and Defenders with actionable insights and detection capabilities to shorten their response times. Made with love by Fr0gger and DarkCoderSC.
     website: https://unprotect.it/
-    image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9KLSo8IfHJFkfnwi2PyBwJsKA9Vy24JuDQ&s
+    image: https://avatars.githubusercontent.com/u/108392725
   - title: The Hacker Recipes
     description: A real cool place to read about hacking methodologies and techniques. Quite exhaustive, great collaborative work initiated by Charlie Bromberg aka Shutdown 🐐🫶
     website: https://www.thehacker.recipes/
