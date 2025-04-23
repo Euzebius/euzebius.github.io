@@ -7,8 +7,8 @@ links:
     image: https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f968aad3-648f-4926-89e4-a6dc6bdbdb3f/Meetups_logo_fr_(3)/w=640,quality=90,fit=scale-down
   - title: Mudpak's blog
     description: My MVP friend likes to write a lot of technical documentation, give it a read!
-    website: https://mudpak.eu/
-    image: https://mudpak.eu/assets/0.png
+    website: https://mudpak.fr/
+    image: https://mudpak.fr/assets/0.png
   - title: Malware Gallery
     description: A virtual museum dedicated to the rich history of malware. Made with love by DarkCoderSC
     website: https://www.malwaregallery.com/
@@ -21,6 +21,10 @@ links:
     description: Laluka's blog. Pure nuggets of wisdom in there, great guy. Excellent in skills and as a human.
     website: https://thinkloveshare.com/
     image: https://thinkloveshare.com/img/laluka.png 
+  - title: SecurityBreak
+    description: Fr0gger's blog. Lot of cool stuff to read and learn there. 
+    website: https://securitybreak.io/
+    image: https://securitybreak.io/img/seclogocropped.svg 
 menu:
     main: 
         weight: -50
