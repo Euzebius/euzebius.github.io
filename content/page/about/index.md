@@ -17,6 +17,7 @@ menu:
 ## whoami
 One more random dude on the Internet.  
 I love hacking stuff, sometimes I break them, sometimes I fix them.  
+
 I've been working on the field for nearly 2 decades now.  
 I've also been hosting the French Hack The Box meetup for nearly 4 years now : [see site here](https://htb-meetup-france.super.site/).
 
