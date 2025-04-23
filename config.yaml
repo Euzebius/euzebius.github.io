@@ -131,12 +131,6 @@ menu:
       params:
         icon: brand-linkedin
         
-    - identifier: discord
-      name: Discord
-      url: https://discordapp.com/users/174571967687557120
-      params:
-        icon: brand-discord
-
 related:
   includeNewer: true
   threshold: 60
