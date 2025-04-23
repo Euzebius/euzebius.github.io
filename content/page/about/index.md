@@ -1,6 +1,6 @@
 ---
 title: About Euz and this blog
-description: New playuer, who dis? Why a blog in 2025?
+description: New player, who dis? Why a blog in 2025?
 date: '2025-04-23'
 aliases:
   - about-me
