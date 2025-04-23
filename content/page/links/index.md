@@ -24,7 +24,12 @@ links:
   - title: SecurityBreak
     description: Fr0gger's blog. Lot of cool stuff to read and learn there. 
     website: https://securitybreak.io/
-    image: https://securitybreak.io/img/tomsec.png 
+    image: https://securitybreak.io/img/tomsec.png
+  - title: MrNoodle
+    description: MrNoodle's blog. Red Teaming, Maldev, Windev and Initial Access stuff incoming.
+    website: https://blog.noodle.red/
+    image: https://blog.noodle.red/static/noodle.png
+    
 menu:
     main: 
         weight: -50
