@@ -12,7 +12,7 @@ links:
   - title: Phrozen
     description: DarkCoderSC's company. Publishing cool tools and blogposts!
     website: https://www.phrozen.io/
-    image: https://www.phrozen.io/static/img/logo.svg
+    image: https://pbs.twimg.com/profile_images/898288090061705216/vKw3Oxnk_400x400.jpg
   - title: Malware Gallery
     description: A virtual museum dedicated to the rich history of malware. Made with love by DarkCoderSC.
     website: https://www.malwaregallery.com/
