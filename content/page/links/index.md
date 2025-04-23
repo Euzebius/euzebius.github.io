@@ -20,11 +20,11 @@ links:
   - title: The Hacker Recipes
     description: A real cool place to read about hacking methodologies and techniques. Quite exhaustive, great collaborative work initiated by Charlie Bromberg aka Shutdown 🐐🫶
     website: https://www.thehacker.recipes/
-    image: https://www.thehacker.recipes/assets/welcome.DNQKDD6z.png
+    image: https://www.thehacker.recipes/images/logo.svg
   - title: Exegol
     description: Professional hacking setup, by Shutdown and Dramelac.
     website: https://exegol.readthedocs.io/en/latest/
-    image: https://raw.githubusercontent.com/ThePorgs/Exegol-docs/main/.assets/rounded_social_preview.png
+    image: https://avatars.githubusercontent.com/u/119009827
   - title: ThinkLoveShare
     description: Laluka's blog. Pure nuggets of wisdom in there, great guy. Excellent in skills and as a human.
     website: https://thinkloveshare.com/
