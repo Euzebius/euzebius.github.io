@@ -9,6 +9,10 @@ links:
     description: My MVP friend likes to write a lot of technical documentation, give it a read!
     website: https://mudpak.fr/
     image: https://mudpak.fr/assets/0.png
+  - title: Phrozen
+    description: DarkCoderSC's company. Publishing cool tools and blogposts!
+    website: https://www.phrozen.io/
+    image: https://www.phrozen.io/static/img/logo.svg
   - title: Malware Gallery
     description: A virtual museum dedicated to the rich history of malware. Made with love by DarkCoderSC.
     website: https://www.malwaregallery.com/
