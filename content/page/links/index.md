@@ -16,7 +16,7 @@ links:
   - title: Unprotect Project
     description: This project aims to provide Malware Analysts and Defenders with actionable insights and detection capabilities to shorten their response times. Made with love by Fr0gger and DarkCoderSC.
     website: https://unprotect.it/
-    image: https://unprotect.it/static/img/unprotect-banner.png
+    image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9KLSo8IfHJFkfnwi2PyBwJsKA9Vy24JuDQ&s
   - title: ThinkLoveShare
     description: Laluka's blog. Pure nuggets of wisdom in there, great guy. Excellent in skills and as a human.
     website: https://thinkloveshare.com/
@@ -24,7 +24,7 @@ links:
   - title: SecurityBreak
     description: Fr0gger's blog. Lot of cool stuff to read and learn there. 
     website: https://securitybreak.io/
-    image: https://securitybreak.io/img/seclogocropped.svg 
+    image: https://securitybreak.io/img/tomsec.png 
 menu:
     main: 
         weight: -50
