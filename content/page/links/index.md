@@ -13,7 +13,7 @@ links:
     description: A virtual museum dedicated to the rich history of malware. Made with love by DarkCoderSC
     website: https://www.malwaregallery.com/
     image: https://www.malwaregallery.com/static/img/logo.png
-  - title: Malware Gallery
+  - title: Unprotect Project
     description: This project aims to provide Malware Analysts and Defenders with actionable insights and detection capabilities to shorten their response times. Made with love by Fr0gger and DarkCoderSC.
     website: https://unprotect.it/
     image: https://unprotect.it/static/img/unprotect-banner.png
