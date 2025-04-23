@@ -6,7 +6,6 @@ aliases:
   - about-me
   - about-euz
   - contact
-license: CC BY-NC-ND
 lastmod: '2025-04-23'
 menu:
     main: 
