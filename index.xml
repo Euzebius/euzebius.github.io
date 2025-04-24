@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Euz blog</title><link>https://blog.euz.me/</link><description>Recent content on Euz blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.euz.me/index.xml" rel="self" type="application/rss+xml"/><item><title>About Euz and this blog</title><link>https://blog.euz.me/about-euz-and-this-blog/</link><pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate><guid>https://blog.euz.me/about-euz-and-this-blog/</guid><description>&lt;h2 id="whoami">whoami&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Euz blog</title><link>https://blog.euz.me/</link><description>Recent content on Euz blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.euz.me/index.xml" rel="self" type="application/rss+xml"/><item><title>30 Days Of Maldev In Delphi - Part 1</title><link>https://blog.euz.me/p/30-days-of-maldev-in-delphi-part-1/</link><pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate><guid>https://blog.euz.me/p/30-days-of-maldev-in-delphi-part-1/</guid><description>&lt;img src="https://upload.wikimedia.org/wikipedia/fr/a/a1/Delphi-logo-1024.png" alt="Featured image of post 30 Days Of Maldev In Delphi - Part 1 " />&lt;h1 id="tldr">TL;DR&lt;/h1>
+&lt;p>I&amp;rsquo;ve felt the urge to learn a new language and chose Delphi after a chat with bro DarkCoderSC.&lt;br>
+I created a &amp;ldquo;30 days&amp;rdquo; program bootcamp style using ChatGPT 4o because Laluka convinced me of the power of LLMs during a training I took with thim.&lt;br>
+I&amp;rsquo;ll be randomly pushing updates as part of blog posts (not one per day, rather packed ones).&lt;/p>
+&lt;h1 id="delphi-in-2025-wtf-bro-">Delphi? In 2025? WTF Bro ?!&lt;/h1>
+&lt;p>&lt;img src="https://blog.euz.me/images/memes/deckard.jpg"
+loading="lazy"
+alt="Meme : Stay awhile and listen"
+>
+So, I was chatting with DarkCoderSC about the last snippet he published on &lt;a class="link" href="https://www.malwaregallery.com/" target="_blank" rel="noopener"
+>Malware Gallery&lt;/a> that reminded me of good old Sub7 times.&lt;br>
+And I must confess, I texted him &amp;ldquo;Bro, seriously, Delphi in 2025? Is it still any good for maldev nowadays?&amp;rdquo;.&lt;/p>
+&lt;p>After a quick chat he convinced me that people still have a bad opinion about Delphi because they got stuck on what Delphi 7 looked like.&lt;br>
+He even made me want to believe that Delphi will be cool again pretty soon.&lt;/p>
+&lt;p>It&amp;rsquo;s no secret that I keep chasing new projects and quickly get bored if it doesn&amp;rsquo;t spark joy, so I saw an opportunity there to do two things I had planned to do for a long time :&lt;/p>
+&lt;ol>
+&lt;li>Learn a new language&lt;/li>
+&lt;li>Get back to MalDev stuff&lt;/li>
+&lt;/ol>
+&lt;p>The problem was that I don&amp;rsquo;t know shit about Delphi, didn&amp;rsquo;t know where to start, what to do etc.&lt;br>
+So I decided to head to ChatGPT and have a chat with &lt;del>Skynet&lt;/del> it. Why ChatGPT? I&amp;rsquo;m not much into the AI/LLM hype, but when I took a training at &lt;a class="link" href="https://offenskill.com" target="_blank" rel="noopener"
+>Offenskill&lt;/a> with Laluka, he got me hyped about how efficient ChatGPT could be for small, highly scoped tasks when you know how to ask.&lt;/p>
+&lt;p>I did my best to make it create something cool.&lt;/p>
+&lt;p>It gave me a syllabus that looked nice. So I asked it to build a Github repo with all the information, and break every &amp;ldquo;day task&amp;rdquo; into a specific folder with a dedicated readme.&lt;/p>
+&lt;p>Guess what? It worked until day 4. The first 3 days were perfectly built, but it had been lazy for the last 27 😂.&lt;br>
+I politely asked to finish the job and it did.&lt;/p>
+&lt;p>So I created the public &lt;a class="link" href="https://github.com/Euzebius/30-domid" target="_blank" rel="noopener"
+>30-domid repo on Github&lt;/a>.&lt;br>
+Want to take the challenge too?&lt;br>
+Clone and push 😇&lt;/p>
+&lt;h2 id="cool-story-bro">Cool story bro&lt;/h2>
+&lt;p>ChatGPT built a program for me and I created a repo, now what you may ask?&lt;/p>
+&lt;p>Well, I plan to release my progress on this path as multiple blog posts, and the source code in a dedicated branch.&lt;br>
+Do not expect one blog post per day of program, this will not happen.&lt;br>
+Do not expect one blog post per calendar day either, this is unlikely to happen too.&lt;/p>
+&lt;p>But what I will do is publishing posts with multiple program days at once. Short enough to prevent brain from melting, but long enough not to think &amp;ldquo;cool, 30 seconds read, genius&amp;rdquo;.&lt;br>
+I won&amp;rsquo;t also treat this as an actual 30 calendar days program, but rather split it as one &amp;ldquo;day&amp;rdquo; is one task on its own and it should be achieved in less than a man-day of working on it, but I can do multiple days on the same calendar day or make the program day span over multiple calendar days.&lt;br>
+No commitment either on doing this daily for 30 days. But I will do it until reaching the end.&lt;br>
+I know, it might sound like a loser but remember, my place == my rules.&lt;/p>
+&lt;p>And if you want an insight, I already completed day 1 yesterday quite easily. Yes, I know, installing Delphi 12 CE and creating a &amp;ldquo;hello world&amp;rdquo; console app makes me an absolute rockstar thank you! 😂&lt;/p>
+&lt;p>&lt;img src="https://blog.euz.me/images/memes/so-it-begins.gif"
+loading="lazy"
+alt="Meme : So it begins"
+>&lt;/p></description></item><item><title>About Euz and this blog</title><link>https://blog.euz.me/about-euz-and-this-blog/</link><pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate><guid>https://blog.euz.me/about-euz-and-this-blog/</guid><description>&lt;h2 id="whoami">whoami&lt;/h2>
 &lt;p>One more random dude on the Internet.&lt;br>
 I love hacking stuff, sometimes I break them, sometimes I fix them.&lt;/p>
 &lt;p>I&amp;rsquo;ve been working on the field for nearly 2 decades now.&lt;br>
